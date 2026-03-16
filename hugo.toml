@@ -16,8 +16,8 @@ paginate = 10
   ShowToc = true
 
 [params.homeInfoParams]
-  Title = "Hi there"
-  Content = "Welcome to my blog."
+  Title = "Hacker by day, dancer by night."
+  Content = "Breaking web apps and writing about it."
 
 [[params.socialIcons]]
   name = "github"
