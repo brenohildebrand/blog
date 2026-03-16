@@ -16,12 +16,20 @@ paginate = 10
   ShowToc = true
 
 [params.homeInfoParams]
-  Title = "Hacker by day, dancer by night."
+  Title = "Hacker by day. Dancer by night."
   Content = "Breaking web apps and writing about it."
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/yourusername"
+  url = "https://github.com/brenohildebrand"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/brenohildebrand"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/brenohildebrand"
 
 [menu]
   [[menu.main]]
