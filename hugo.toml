@@ -5,8 +5,8 @@ theme = "PaperMod"
 paginate = 10
 
 [params]
-  author = "Your Name"
-  description = "My personal blog"
+  author = "Breno Hildebrand"
+  description = "Breaking web apps and writing about it."
   defaultTheme = "auto"   # auto, light, dark
   ShowReadingTime = true
   ShowShareButtons = false
